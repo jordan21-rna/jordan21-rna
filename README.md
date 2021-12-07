@@ -1,0 +1,7 @@
+I'm Jordan
+@jordan_rna
+
+<!---
+jordan21-rna/jordan21-rna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
